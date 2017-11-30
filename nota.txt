@@ -1,0 +1,4 @@
+
+plugin jquery
+
+https://github.com/jasonalvis/show-more
